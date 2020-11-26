@@ -1,0 +1,19 @@
+[
+
+	{
+		"name":"hamza",
+		"city":"paris",
+		"number":"72000"
+
+	},
+	{
+		"name":"omar",
+		"city":"palaiseau",
+		"number":"91000"
+	},
+	{
+		"name":"reda",
+		"city":"paris",
+		"number":"75000"
+	}
+]
